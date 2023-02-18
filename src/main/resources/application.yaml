@@ -1,0 +1,15 @@
+name: xpp
+
+person:
+  name: zhangsan
+  age: 23
+  address:
+    - benjing
+    - shanghai
+
+address:
+  - benjing
+  - shanghai
+
+msg1: 'hello \n springboot' #不会解析特殊字符，按照原样输出
+msg2: 'hello \n springboot'
